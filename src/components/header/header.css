@@ -1,0 +1,19 @@
+.auth{
+    display: flex;
+    margin-left: 450px;
+}
+
+
+@media screen and (max-width: 992px){
+    .auth{
+        display: block;
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 992px){
+    .auth{
+        display: flex;
+        margin-left: 300px;
+    }
+}

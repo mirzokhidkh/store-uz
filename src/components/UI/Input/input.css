@@ -1,0 +1,11 @@
+.invalid label {
+    color: red;
+}
+
+.error {
+    color: red;
+}
+
+.success{
+    color: #3ac18c;
+}
